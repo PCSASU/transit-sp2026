@@ -3,5 +3,7 @@ pandas == 3.0.*
 plotly >= 6.5, < 6.6
 fastapi == 0.124.*
 uvicorn == 0.40.*
+pyarrow == 25.*
+flask == 3.1.*
 flake8
 black
